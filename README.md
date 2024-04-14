@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/PyCharm-EFE50C.svg?&style=for-the-badge&logo=pycharm&logoColor=000" />&nbsp;
 
 ---
 

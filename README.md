@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
 <img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=00F%22" />&nbsp;
+<img alt="lua" src="https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=00F%22" />&nbsp;
 
 ### 🛠 Tools:
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/PyCharm-EFE50C.svg?&style=for-the-badge&logo=pycharm&logoColor=000" />&nbsp;
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-EFE50C.svg?&style=for-the-badge&logo=pycharm&logoColor=000" />&nbsp;
 
 ---
 

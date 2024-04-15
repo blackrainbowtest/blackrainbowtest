@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/)
-[![Lua](https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=00F)](https://www.lua.org/)
+[![Lua](https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=FFF)](https://www.lua.org/)
 
 ### 🛠 Tools:
 

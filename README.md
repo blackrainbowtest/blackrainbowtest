@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 ### 💻 What languages were used in the repositories:
 
-<img alt="html5" src="https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff" />&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
-<img alt="lua" src="https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=00F%22" />&nbsp;
+[![HTML5](https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff)](https://reactjs.org/)
+[![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/)
+[![Lua](https://img.shields.io/badge/lua-00F.svg?&style=for-the-badge&logo=lua&logoColor=00F)](https://www.lua.org/)
 
 ### 🛠 Tools:
 

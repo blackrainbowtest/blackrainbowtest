@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 ### ⚙️ GitHub Analytics
 
 <a href="https://www.linkedin.com/in/welly-shen-8b43287a">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=blackrainbowtest&show_icons=true&theme=react" alt="Welly's github stats" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=algolia" alt="webDev's Github stats" />
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrainbowtest&layout=compact&theme=react" alt="Welly's top languages" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=blackrainbowtest&show_icons=true&theme=react" alt="github stats" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackrainbowtest&layout=compact&theme=react" alt="top languages" />
 </a>
 

@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
     </td>
   </tr>

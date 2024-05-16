@@ -3,6 +3,7 @@
 ### ⁉ What I want:
 
 I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in the field of programming and learn to quickly find the best solutions to complete a given task.
+
 ---
 
 ### 💻 What languages were used in the repositories:

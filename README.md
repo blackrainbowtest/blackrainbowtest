@@ -27,7 +27,7 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 ---
 
 ### ⚙️ GitHub Analytics
-<table>
+<table style="width: 100%">
   <tr>
     <td>
       <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=blackrainbowtest&show_icons=true&theme=react" alt="github stats" />

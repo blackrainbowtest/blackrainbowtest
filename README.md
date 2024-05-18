@@ -41,7 +41,7 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
     </td>
   </tr>
-</table
+</table>
 <center>
 
 [![Coffee](https://github.com/blackrainbowtest/blackrainbowtest/blob/main/images/coffee/coffee.gif)](https://buymeacoffee.com/hovaz)

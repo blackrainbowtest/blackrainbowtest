@@ -42,7 +42,7 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
     </td>
   </tr>
   <tr>
-  <td colspan="2">
+  <td colspan="2" align="center" >
     <a href="https://buymeacoffee.com/hovaz">
       <img src="https://github.com/blackrainbowtest/blackrainbowtest/blob/main/images/coffee/coffee.gif" alt="Coffee" />
       <center>

@@ -38,7 +38,7 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackrainbowtest&theme=react" alt="github stats" />
     </td>
   </tr>
 </table>

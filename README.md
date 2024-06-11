@@ -21,7 +21,8 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+[![VS Code](https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com/)
 [![Pycharm](https://img.shields.io/badge/PyCharm-EFE50C.svg?&style=for-the-badge&logo=pycharm&logoColor=000)](https://www.jetbrains.com/pycharm/)
 
 ---

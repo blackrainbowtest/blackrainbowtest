@@ -44,4 +44,3 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 </table>
 
 ![snake gif](https://github.com/blackrainbowtest/blackrainbowtest/blob/output/github-contribution-grid-snake-dark.svg)
-

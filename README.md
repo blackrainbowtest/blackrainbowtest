@@ -44,3 +44,20 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 </table>
 
 ![snake gif](https://github.com/blackrainbowtest/blackrainbowtest/blob/output/github-contribution-grid-snake-dark.svg)
+
+<p align="center">
+  <img src="https://github.com/blackrainbowtest/blackrainbowtest/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake GIF" style="display: none;" class="dark-theme">
+  <img src="https://github.com/blackrainbowtest/blackrainbowtest/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF" style="display: none;" class="light-theme">
+</p>
+
+<script>
+  const darkThemeMediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+  const darkThemeImage = document.querySelector('.dark-theme');
+  const lightThemeImage = document.querySelector('.light-theme');
+
+  if (darkThemeMediaQuery.matches) {
+    darkThemeImage.style.display = 'block';
+  } else {
+    lightThemeImage.style.display = 'block';
+  }
+</script>

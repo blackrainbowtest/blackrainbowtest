@@ -16,6 +16,9 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 [![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/)
 [![Lua](https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=FFF)](https://www.lua.org/)
 [![С](https://img.shields.io/badge/c-283593.svg?&style=for-the-badge&logo=c&logoColor=FFF)](https://www.cprogramming.com/)
+[![Python](https://img.shields.io/badge/python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/)
+
+
 
 ### 🛠 Tools:
 

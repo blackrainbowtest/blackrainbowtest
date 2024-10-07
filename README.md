@@ -6,7 +6,6 @@ I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in
 
 ---
 
-
 ### 💻 What languages were used in the repositories:
 
 [![HTML5](https://img.shields.io/badge/html-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/HTML)

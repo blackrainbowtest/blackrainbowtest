@@ -2,7 +2,7 @@
 
 ### ⁉ What I want:
 
-I started teaching myself at Tumo Labs GSL. My goal is to deepen my knowledge in the field of programming and learn to quickly find the best solutions to complete a given task.
+I started studying at Tumo Labs GSL with the goal of deepening my knowledge in programming and learning to quickly find the best solutions for completing given tasks. I have also recently enrolled at School 42, where I plan to begin learning the C programming language to further develop my skills in this field.
 
 ---
 

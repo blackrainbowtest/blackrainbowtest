@@ -15,6 +15,7 @@ I started studying at Tumo Labs GSL with the goal of deepening my knowledge in p
 [![Redux](https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff)](https://redux.js.org/)
 [![Lua](https://img.shields.io/badge/lua-2C2D72.svg?&style=for-the-badge&logo=lua&logoColor=FFF)](https://www.lua.org/)
 [![С](https://img.shields.io/badge/c-283593.svg?&style=for-the-badge&logo=c&logoColor=FFF)](https://www.cprogramming.com/)
+[![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/python-4584b6.svg?&style=for-the-badge&logo=python&logoColor=FFF)](https://www.python.org/)
 
 
